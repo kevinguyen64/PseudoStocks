@@ -28,7 +28,7 @@ Session(app)
 # Configure CS50 Library to use SQLite database
 db = SQL("sqlite:///finance.db")
 
-# Temporary API
+# Temporary API KEY
 os.environ["API_KEY"] = "pk_f00e67c1a30747a2aa0c13cdf911df7b"
 
 # Make sure API key is set
