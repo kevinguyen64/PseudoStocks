@@ -1,4 +1,4 @@
-# PseudoStocks
+# Pseudo$tocks
 #### Video Demo: 
 #### Description:
 
