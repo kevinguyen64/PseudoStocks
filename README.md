@@ -18,17 +18,17 @@ but a risk-free transition into that realm.
 
 - ##### Frameworks: 
     
-    Frameworks utilized: Flask, Bootstrap
+        Frameworks utilized: Flask, Bootstrap
 
 - ##### HTML (in the templates directory):
 
     -   **layout.html:**
 
-        Layout.html, with the incorporation of jinja, was used as the template to all the webpages
-        of the website. This file contains markup for the header and footer of the website that 
-        includes the title, background color, navigation bar, and credits. The navigation bar has 
-        different links depending on if the user is logged in or not. The jinja implementation of 
-        flashing the users messages and the links to the Bootstrap frameworks are contained here. 
+            Layout.html, with the incorporation of jinja, was used as the template to all the webpages
+            of the website. This file contains markup for the header and footer of the website that 
+            includes the title, background color, navigation bar, and credits. The navigation bar has 
+            different links depending on if the user is logged in or not. The jinja implementation of 
+            flashing the users messages and the links to the Bootstrap frameworks are contained here. 
 
     -   **index.html:**
 
