@@ -2,7 +2,7 @@
 #### Video Demo: 
 #### Description:
 
-"PseudoStocks" is a website that allows the users to manage stocks in a hypothetical
+"Pseudo$tocks" is a website that allows the users to manage stocks in a hypothetical
 setting. Using real-time stock market data from IEX's API, the users have the ability
 to obtain quotes on any company's stock value. From there, the users can buy and sell
 stocks with a balance of $10,000 and their trading history is documented for reference.
