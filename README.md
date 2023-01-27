@@ -1,5 +1,5 @@
 # Pseudo$tocks
-#### Video Demo: 
+#### Video Demo: https://youtu.be/rHUWfMJEV9c
 #### Description:
 
 "Pseudo$tocks" is a website that allows the users to manage stocks in a hypothetical
