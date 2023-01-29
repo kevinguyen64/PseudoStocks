@@ -9,7 +9,7 @@ stocks with a balance of $10,000 and their trading history is documented for ref
 
 #### Purpose:
 
-The trading of stocks can be a very daunting task considering all the risks. The volatily 
+The trading of stocks can be a very daunting task considering all the risks. The volatility 
 of the stock market can make it hard for any person trying to break into the stock trading
 world. However, I believe that this website not only provides a beginner-friendly introduction 
 but a risk-free transition into that realm. 
